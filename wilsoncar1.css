@@ -1,0 +1,42 @@
+body{
+  background-image: url(http://www.welcomia.com/uploads/preview/hot_vector_background_5598.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100%;
+  }
+#partedecima{
+  color: Grey;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: 500%;
+  text-align: center;
+  text-shadow: 5px 4px black;
+
+}
+button{
+
+  font-size: bold;
+  border: 1px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:  16px;
+}
+
+#tabela{
+  color: blue;
+  font-size: 200%;
+  font-family: serif;
+  margin-top: -180px;
+  text-shadow:  2px 2px grey;
+  text-align: right;
+}
+#partedebaixo{
+  color: blue;
+  font-family: sans-serif;
+  font-size: 200%;
+  text-align: right;
+  text-shadow: 2px 2px grey;
+}
