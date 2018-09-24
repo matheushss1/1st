@@ -1,0 +1,54 @@
+body{
+  background-image: url(http://www.welcomia.com/uploads/preview/hot_vector_background_5598.jpg);
+  background-size: 100%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+#escolha{
+  font-size: 200%;
+  font-style: italic;
+  text-decoration: underline;
+  text-align: center;
+  text-shadow: 2px 2px grey;
+  color: blue;
+}
+p {
+  color: blue;
+  font-size: 150%;
+  text-decoration-style: dotted;
+  font-stretch: expanded;
+}
+#nome {
+  width: 70%;
+  padding-bottom: 10px;
+  font-size: 15px;
+}
+#celular{
+    width: 40%;
+    padding-bottom: 10px;
+}
+#problema{
+  width: 100%;
+  padding-bottom: 5%;
+}
+#marca {
+  width: 40%;
+  padding-bottom: 10px;
+}
+#modelo{
+  width: 40%;
+  padding-bottom: 10px;
+}
+#ano{
+  width: 40%;
+  padding-bottom: 10px;
+}
+#combustivel{
+  color: blue;
+  font-size: 200%;
+  text-decoration-style: dotted;
+  font-stretch: expanded;
+}
+button{
+  font-size: 22px;
+}
